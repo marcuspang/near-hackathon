@@ -23,7 +23,7 @@ function Store():JSX.Element {
   return (
     <div className="flex flex-1 flex-col min-h-screen text-gray-500">
       <Head>
-        <title>Mintbase - Simple Marketplace Example</title>
+        <title>BetweenUs | All-in-one NFT Marketplace</title>
       </Head>
       <Header />
       <div className="flex w-full">
